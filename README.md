@@ -14,7 +14,7 @@
 
  <br/>
 <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nvidia-76B900?style=flat-square&logo=Jetson Nano&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jetson Nano-76B900?style=flat-square&logo=Nvidia&logoColor=white"/>
 
  <br/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
